@@ -1,0 +1,15 @@
+after adding cateries navigate to categories
+after registration login page--done
+business logic in service
+exception handling--done
+storing the marks in the table
+angular validation
+entity class validation --done
+
+6536
+Gayathri
+
+Due to college semester exam he is absent
+
+Due to his office timing changed from day to night shift so not able to continue to with course.
+ so draping of this course
